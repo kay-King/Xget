@@ -16,7 +16,7 @@ export default {
         'revert',
         'style',
         'test',
-        'deps'     // ← 新增：允许 Dependabot 的 deps 更新
+        'deps'
       ]
     ]
   }
